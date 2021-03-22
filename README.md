@@ -7,7 +7,6 @@
 Clone the project into your computer:
 ```
 git clone https://github.com/Dan-Mqs/django-miniblog.git
-
 ```
 
 Create and start a a virtual environment:
