@@ -1,0 +1,16 @@
+
+# Virtual Environment #
+miniblog/
+
+# File with Django project's secret key #
+keyfile.py
+
+# Database #
+db.sqlite3
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
