@@ -6,7 +6,7 @@
 
 Clone the project into your computer:
 ```
-git clone https://github.com/erinallard/instagram_miner.git 
+git clone https://github.com/Dan-Mqs/django-miniblog.git
 
 ```
 
