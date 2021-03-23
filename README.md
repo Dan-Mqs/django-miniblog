@@ -35,22 +35,22 @@ py manage.py migrate
 
 Create admin account:
 ```
-python manage.py createsuperuser
+py manage.py createsuperuser
 ```
 
 Then run:
 ```
-python manage.py makemigrations posts
+py manage.py makemigrations posts
 ```
 
 Then run again:
 ```
-python manage.py migrate
+py manage.py migrate
 ```
 
 Start the development server:
 ```
-python manage.py runserver
+py manage.py runserver
 ```
 
 Open the page in your browser to view the app running in the address:
