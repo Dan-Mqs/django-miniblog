@@ -4,7 +4,7 @@
 
 ## How to run locally for testing
 
-Clone the project into your computer:
+Clone the project into your computer:    ([or download project as ZIP](https://github.com/Dan-Mqs/django-miniblog/archive/refs/heads/main.zip))
 ```
 git clone https://github.com/Dan-Mqs/django-miniblog.git
 ```
