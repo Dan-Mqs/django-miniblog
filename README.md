@@ -4,6 +4,8 @@
 
 ## How to run locally for testing
 
+#### To run this app, you need Python 3 installed in your PC.
+
 Clone the project into your computer:    ([or download project as ZIP](https://github.com/Dan-Mqs/django-miniblog/archive/refs/heads/main.zip))
 ```
 git clone https://github.com/Dan-Mqs/django-miniblog.git
